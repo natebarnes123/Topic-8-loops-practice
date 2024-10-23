@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            
-
+            List<string> names = new List<string> { "trinity", "Neo", "morphius", "smith" };
+            Console.WriteLine(names)
 
 
         }
